@@ -1,0 +1,7 @@
+Cross Validation 
+
+https://towardsdatascience.com/cross-validation-explained-evaluating-estimator-performance-e51e5430ff85
+
+Reinforecement Learning 
+
+https://www.geeksforgeeks.org/what-is-reinforcement-learning/

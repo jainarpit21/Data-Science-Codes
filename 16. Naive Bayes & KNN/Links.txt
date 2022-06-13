@@ -1,0 +1,13 @@
+KNn
+https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4
+https://towardsdatascience.com/k-nearest-neighbors-knn-explained-cbc31849a7e3#:~:text=K%2Dnearest%20neighbors%20(kNN)%20is%20a%20supervised%20machine%20learning,friends%20we%20grew%20up%20with.
+
+NB
+https://towardsdatascience.com/naive-bayes-explained-9d2b96f4a9c0
+
+
+Decision Tree
+https://towardsdatascience.com/decision-trees-explained-3ec41632ceb6
+
+Random Forest
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2
