@@ -1,0 +1,25 @@
+https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
+-- Intro 
+
+https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd
+-- Back Propagation
+
+https://www.geeksforgeeks.org/activation-functions-neural-networks/
+-- Activation Functions 
+
+https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn/#:~:text=ANN%20is%20considered%20to%20be,compatibility%20when%20compared%20to%20CNN.&text=Facial%20recognition%20and%20Computer%20vision.
+-- CNN Vs RNN Vs ANN
+
+https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+-- CNN Explained 
+
+https://www.kaggle.com/code/nitinsss/image-classification-with-cnn/notebook
+-- CNN Implementation
+
+
+https://towardsdatascience.com/recurrent-neural-networks-rnn-explained-the-eli5-way-3956887e8b75
+-- RNN Explained 
+
+
+https://www.kaggle.com/code/hassanamin/time-series-analysis-using-lstm-keras/notebook
+-- Keras Implementation of LSTM 
